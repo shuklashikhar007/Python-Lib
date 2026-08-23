@@ -1,0 +1,3 @@
+name = Shikhar Shukla
+branch = chemical engineering
+college = IIT BHU
