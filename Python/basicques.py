@@ -1,6 +1,5 @@
 # Q1
-def is_even(n):
-    return n % 2 == 0
+def is_even(n):return n % 2 == 0
 print(is_even(10))
 def calculate(a, b):
     return a + b, a - b, a * b
