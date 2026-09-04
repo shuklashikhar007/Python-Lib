@@ -97,6 +97,8 @@ for i,x in enumerate(arr): print(i,x)
 # Functions in python
 def add(a,b) :
     return a+b
+def add(a,b):
+    return a+b
 # no {} scope brackets indentation will define the body here
 result = add(10,20)
 print(result)
